@@ -14,4 +14,4 @@ $ apt install git
 #### Run script
 ```python
 $ cd OLD-CRACK
-$ python2 MOHSIN.py
+$ python2 l.py
