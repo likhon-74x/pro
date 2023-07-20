@@ -15,12 +15,12 @@ import os
 try:
 	import requests
 except ImportError:
-	os.system("pip install requests")
+	os.system("pip2 install requests")
 
 try:
 	import concurrent.futures
 except ImportError:
-	os.system("pip install futures")
+	os.system("pip2 install futures")
 
 import os
 import sys
